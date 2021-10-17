@@ -1,3 +1,3 @@
-# StusentRecoedViewer
+# StusentRecordViewer
 
 just homework
